@@ -1,0 +1,7 @@
+scope,domain,macro_f1,n_samples
+overall_all_rows,ALL,0.5212474067544739,4464
+domain_only_official_5,Technology & Digital Services,,0
+domain_only_official_5,Finance & Business,,0
+domain_only_official_5,Social Life & Entertainment,0.5310514698548575,194
+domain_only_official_5,Retail & Lifestyle,0.5801125734218889,119
+domain_only_official_5,Public Services,0.5145550058247341,3798

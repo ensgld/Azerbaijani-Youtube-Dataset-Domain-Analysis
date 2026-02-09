@@ -1,0 +1,21 @@
+text,domain_5,true_label_id,pred_label_id,true_label,pred_label,prob_true,prob_pred,prob_max
+səhərdən gəzinirəm məndən hiss edən olub,Public Services,2,1,pos,neu,0.401052325963974,0.4258174002170563,0.4258174002170563
+aktinomiset bakteriya deyil mykos göbələk deməkdi sadəcə bəzi xüsusiyyətlərinə görə bakteriyaya bənzəyir mikroskopik göbələkdi,,1,0,neu,neg,0.23205207288265228,0.6298989653587341,0.6298989653587341
+şəhər parkında yeni tədbir keçirildi,Public Services,1,2,neu,pos,0.41338977217674255,0.4701477885246277,0.4701477885246277
+yaxın çempion olmadan sevmek olsa bele olmasa bele helede sevmek sevgidende geri dönmemek fenerbahce,Public Services,2,0,pos,neg,0.1990664154291153,0.4988553524017334,0.4988553524017334
+salam çin nin yeni kəşfi bizə vaxt gəlib çıxacaq növbəti əsrdə,Public Services,1,2,neu,pos,0.271648645401001,0.6656593680381775,0.6656593680381775
+reklam şüuraltıma elə gözəl işlədi acqarnına gedim kreditə televizor alımee,Public Services,2,1,pos,neu,0.40091848373413086,0.4270678758621216,0.4270678758621216
+gün siyahıda adım olacaq,Public Services,2,1,pos,neu,0.36622288823127747,0.4291841685771942,0.4291841685771942
+yağışdan yollarımızın palçıq olma səbəbi isə bizim avtomobil yolları dövlət agentliyinin günahıdı,Public Services,0,1,neg,neu,0.2538377046585083,0.4125484228134155,0.4125484228134155
+bunun arasdirmaya ehtiyaci su hemise hüzur verib de,Public Services,2,0,pos,neg,0.1733793467283249,0.5543274879455566,0.5543274879455566
+neymara təklif elə qəbul bəlkə,Retail & Lifestyle,2,1,pos,neu,0.4197322726249695,0.4253590404987335,0.4253590404987335
+nəfəsə üç dördünü almaq görəsən,Public Services,1,2,neu,pos,0.3993254601955414,0.5044640898704529,0.5044640898704529
+deyirlər illərdir təkrarlayırlar inandırıcı deyil km uzunluqda damarı qram götürsək km uzunluq kq edər deməkdir təkcə damarların özü kq dır kı real deyil,,0,1,neg,neu,0.34738418459892273,0.3771710693836212,0.3771710693836212
+balansı gösdərmədiyinə görə stars verdim pis deyil,,1,0,neu,neg,0.14564462006092072,0.7762271761894226,0.7762271761894226
+elə sualınızda cavabı vermisiniz insanın xoşbəxtliyi yaşadığı coğrafi mövqeydən asılıdır bəzən olur kiçik şeylər insan xoşbəxt olduğunu zənn edir hiss müddətlikdir,Public Services,1,2,neu,pos,0.42348578572273254,0.43057581782341003,0.43057581782341003
+vəsait ayırıb onları azərbaycana məsələn bakı xoreoqrafiya akademiyasında tədris dəvət etsələr yaxşı olardı bildirib,Public Services,2,0,pos,neg,0.21697446703910828,0.45439058542251587,0.45439058542251587
+bəs həzmdən sonrakı proses olur görəsən onuda ölçmək olurmu,Public Services,1,0,neu,neg,0.33840909600257874,0.4319908916950226,0.4319908916950226
+azərbaycanlı tələbə abş ın nüfuzlu universitetinə qəbul,Public Services,2,0,pos,neg,0.2368154227733612,0.41284847259521484,0.41284847259521484
+mene kupon veribler tl ama bilmirem hansi profile veribler hardan oyrene bilerem,Public Services,1,0,neu,neg,0.29575085639953613,0.5201214551925659,0.5201214551925659
+adam dəhşətdir pk şedevirdir,Public Services,2,0,pos,neg,0.23239478468894958,0.4311707615852356,0.4311707615852356
+şahramanyanın paşinyan hakimiyyəti qarşıdurması fonunda onun fikirlərinin yeni qarşıdurmaya səbəb olacağı gözləntisi,Public Services,1,0,neu,neg,0.2919403910636902,0.5274450778961182,0.5274450778961182

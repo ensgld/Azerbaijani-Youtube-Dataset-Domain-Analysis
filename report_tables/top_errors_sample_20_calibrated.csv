@@ -1,0 +1,21 @@
+text,domain_5,true_label_id,pred_label_id,true_label,pred_label,prob_true,prob_pred,prob_max
+dövlət statistika komitəsi aylıq inflyasiya rəqəmlərini açıqladı,Public Services,1,0,neu,neg,0.345573753118515,0.3865032494068146,0.3865032494068146
+eybəcər abidədir sökülsə yaxşı,Public Services,0,2,neg,pos,0.10903289169073105,0.5825157761573792,0.5825157761573792
+yalannan agzina geleni yazirsan olmuyub bele hadise,Public Services,0,1,neg,neu,0.26600560545921326,0.3920802175998688,0.3920802175998688
+sovet dönəmində ölkəsinin təcrübəsi olduğunu xatırladıb bizim sovet illərində cür təcrübəmiz olub,Public Services,1,0,neu,neg,0.3309852182865143,0.41786643862724304,0.41786643862724304
+salam sizin əməkdaşlar texniki şöbəyə göndərdi texniki şöbə gəlib yaxınlaşıb çətinliyi aradan qaldirmadi,Public Services,0,1,neg,neu,0.2699231505393982,0.3906359374523163,0.3906359374523163
+içində bərk asqırsan farası yerə düşür,Public Services,1,0,neu,neg,0.2294216901063919,0.6161373853683472,0.6161373853683472
+alyoşa tez tez söhbətə uyaraq özünü pis vəziyyətdə qoyurdu,Public Services,0,1,neg,neu,0.23564672470092773,0.39720526337623596,0.39720526337623596
+gejdi qədər insan həlak olannan sora mi olmaliydi,Public Services,0,1,neg,neu,0.26103538274765015,0.3931964635848999,0.3931964635848999
+çuşkaları bakıya propiska edənin yoxunu,Public Services,0,1,neg,neu,0.2059333473443985,0.4009750783443451,0.4009750783443451
+ilahə əmirintizam rza əlixani əbdüləli bazərqan məşhurların imzaladığı məktubda əli xamenei macəraçı adlandırılıb,Public Services,0,2,neg,pos,0.19074486196041107,0.40798309445381165,0.40798309445381165
+saniyəyə satıla bilər elə sayta girib yer seçmək saniyədən edir bəs ödəniş,Public Services,0,1,neg,neu,0.20320799946784973,0.4052584767341614,0.4052584767341614
+əməliyyatı bilmirəm tikməyi qəşəngdi,Public Services,2,1,pos,neu,0.36885926127433777,0.39812466502189636,0.39812466502189636
+admin arı haqqinda quran mocuzəsi bilirdiz,Social Life & Entertainment,1,0,neu,neg,0.3497520983219147,0.37261179089546204,0.37261179089546204
+fyodor karloviç kriger uyuq düzəltməyin böyük ustasıdır,Public Services,1,2,neu,pos,0.40096068382263184,0.4060538113117218,0.4060538113117218
+ox zel allah sizlere can sağlığı versin,Public Services,2,1,pos,neu,0.3476385772228241,0.38999682664871216,0.38999682664871216
+bilməyimiz yaxşı xalqımız vaxtının çoxunu pul saymağa sərf edir tərəzi həll edəcəyik,Public Services,1,2,neu,pos,0.40139344334602356,0.4149937927722931,0.4149937927722931
+yumurtlayan kənd toyuqları aylıq qarğıdalı buğda arpa yonca kəndimizdə təbii sağlam böyüdülmüş damazlıq kəsimə yararlı iri toyuqlardır yumurtlayan kənd toyuqları aylıq kənd xoruzları damazlıq ailə kəsilib təmizlənmiş kənd toyuğu içalatı ayaqları üstündə kq əd boynu lüt ataks toyuqları xoruzları kənd hinduşkaları çəkidə aylıq qarğıdalı arpa gicitkan yonca kəndimizdə otarılmış təbii sağlam böyüdülmüş damazlıq yüksək yumurta verir ildə dəfə kült düşür aylıq hinduşka damazlıq ailə kəsilib təmizlənmiş xoruz kq fərə kq firəng toyuqları aylıq qarğıdalı buğda arpa yonca kəndimizdə sağlam böyüdülmüş damazlıq yumurtlamağa hazır sesar firəng səbzi damazlıq ailə phone whatsapp zəng ünvan şirvan bakıya yanvar metrosuna pulsuz göndərirəm,Public Services,1,0,neu,neg,0.18766014277935028,0.7204996943473816,0.7204996943473816
+adəti uşaqliqda evdə görmüsəm ümumiyyətlə ən kənd evlərində yataqlar ayrı olurdu,Public Services,1,2,neu,pos,0.40156182646751404,0.409931480884552,0.409931480884552
+əminəm bugünkü danışıqlar məhsuldar olacaq tokayev bildirib,Public Services,2,1,pos,neu,0.37431418895721436,0.4009466767311096,0.4009466767311096
+hebsxanadaki insanlar filmlerdeki butun gun cay icib yerlerinde uzanib ve nerd oynamirlar real heyatda baskadi,Public Services,1,0,neu,neg,0.3457900881767273,0.3864206075668335,0.3864206075668335

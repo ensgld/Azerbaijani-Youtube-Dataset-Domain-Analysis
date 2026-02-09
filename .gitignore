@@ -1,0 +1,38 @@
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual envs
+.venv/
+.venv*/
+venv/
+ENV/
+
+# Secrets / local config
+.env
+.env.*
+!.env.example
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Project-generated data/artifacts (large)
+data/
+deliverables/
+runs/
+models/
+
+# Private note file (contains personal info)
+README.txt
